@@ -1,5 +1,8 @@
 *{
   margin: 0%;
+  font-family:poppins;
+  text-decoration: none;
+  list-style: none;
 }
 .c12{
   color: #000;
@@ -20,4 +23,25 @@
 }
 .c6{
   color:#9c9c9c ;
+}
+.font-media-1{
+  font-size: 2rem;
+}
+.font-media-2{
+  font-size: 2,25rem;
+}
+.font-media-3{
+  font-size: 3rem;
+}
+.font-grande{
+  font-size: 4,5rem;
+}
+.font-pequena{
+  font-size: 18px;
+}
+.back{
+  background-color: #000;
+}
+.flex{
+  display: flex;
 }
